@@ -39,13 +39,14 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 - Soldering tools (iron, solder, flux)
 
 ### 🖨️ 3D Printed Parts:
+- Can be found at [Printables]([https://printables.com](https://www.printables.com/model/1300028-shortcutdeck-printable-parts))
 - 1x Top enclosure
 - 1x Bottom enclosure
 - 1x Rotary knob (smooth or textured)
 - 12x Keycaps *(optional, if you don't have your own)*
 - 4x Rubber feet *(optional, or use adhesive furniture pads)*
 
-### 🧪 PCB Fabrication:
+### 🧪 PCB & Assembly:
 - 1x 80x85mm single-sided copper board (cuprextit, 1.6mm thickness, 0.35µm copper layer)
 - Ferric chloride etching solution
 - PP plastic tray (flat, wide)
@@ -77,10 +78,27 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 - If your Pico has headers: gently remove the plastic spacer and bend pins 90° outward.
 - If not: solder 90° male headers directly.
 - Crimp and connect all Dupont cables exactly per the wiring diagram (match pinout carefully!).
+- The common pin of all switches on the board is GND, it is also the beginning of pinout 1-12
+```bash
+00 - GND 
+01 - GP28
+02 - GP27
+03 - GP26
+04 - GP22
+05 - GP21
+06 - GP20
+07 - GP19
+08 - GP18
+09 - GP17
+10 - GP16
+11 - GP15
+12 - GP14
+```
 
 ### 3. Assembly
 
 - Print all 3D parts in preferred material and color.
+- Feet should be printed out of flexible material.
 - Fit switches and sockets into the top cover.
 - Attach the knob, rubber feet, and secure with 4 screws.
 

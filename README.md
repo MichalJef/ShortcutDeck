@@ -100,13 +100,13 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 
 ### 3. Assembly
 
-- Print all 3D parts in preferred material and color. (Feets should be printed out of flexible material)
-- Fit switches into the switch grid and plug into pcb.
-- Place encoder nut into hex hole in the top cover and screw the encoder in, pins should direct to the right when looked from top.
-- PCB with grid and switches should fit well into the top cover socket.
-- Put the microcontroller at the bottom of the shell. Micro USB port should make it easier
-- Finally, insert the cover and shell into each other and secure with 4 screws. (If your microcontroller won't stay in place during this step improvise with screw or tape)
-- Attach the knob and glue rubber feet.
+1. Print all 3D parts in preferred material and color. (Feets should be printed out of flexible material)
+2. Fit switches into the switch grid and plug into pcb.
+3. Place encoder nut into hex hole in the top cover and screw the encoder in, pins should direct to the right when looked from top.
+4. PCB with grid and switches should fit well into the top cover socket.
+5. Put the microcontroller at the bottom of the shell. Micro USB port should make it easier
+6. Finally, insert the cover and shell into each other and secure with 4 screws. (If your microcontroller won't stay in place during this step improvise with screw or tape)
+7. Attach the knob and glue rubber feet.
 
 ![Assembly Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/preview.jpg)
 

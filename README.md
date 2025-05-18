@@ -1,6 +1,6 @@
 # ShortcutDeck
 
-![Project Image Placeholder]()
+![Project Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/shortcutdeck_dark.png)
 
 A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–F24) and a multifunctional rotary encoder. Built to be flexible, minimalistic, and open to modifications.
 
@@ -60,7 +60,6 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 ## 🛠️ Building Process
 
 ### 1. PCB Manufacturing
-
 1. Cut a piece of copper board to 80x85mm.
 2. Print the PCB layout PDF and glue it onto the board with a glue stick.
    - Verify scale using the 14x14mm square marker.
@@ -79,6 +78,9 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 - If not: solder 90° male headers directly.
 - Crimp and connect all Dupont cables exactly per the wiring diagram (match pinout carefully!).
 - The common pin of all switches on the board is GND, it is also the beginning of pinout 1-12
+
+[Diagram Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/ShortcutDeck.png)
+
 ```bash
 00 - GND 
 01 - GP28

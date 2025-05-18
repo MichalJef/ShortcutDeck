@@ -61,7 +61,7 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 
 ### 1. PCB Manufacturing
 1. Cut a piece of copper board to 80x85mm.
-2. Print the PCB layout PDF and glue it onto the board with a glue stick.
+2. Print the PCB layout [PDF](https://github.com/MichalJef/ShortcutDeck/blob/main/ShortcutDeck%20PCB%20v1.pdf) and glue it onto the board with a glue stick.
    - Verify scale using the 14x14mm square marker.
 3. Mark all required holes with a punch and peel off the paper.
 4. Pre-drill holes using a 0.8mm bit, then finish with correct bit sizes.
@@ -72,6 +72,8 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 9. Remove the ink with alcohol, inspect the traces, and measure resistance (target < 10kΩ).
 10. Solder connectors.
 
+![PCB Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/PCB%20preview.jpg)
+
 ### 2. Wiring and Controller Prep
 
 - If your Pico has headers: gently remove the plastic spacer and bend pins 90° outward.
@@ -79,8 +81,7 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 - Crimp and connect all Dupont cables exactly per the wiring diagram (match pinout carefully!).
 - The common pin of all switches on the board is GND, it is also the beginning of pinout 1-12
 
-[Diagram Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/ShortcutDeck.png)
-
+![Diagram Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/ShortcutDeck1.png)
 ```bash
 00 - GND 
 01 - GP28
@@ -104,6 +105,10 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 - Fit switches and sockets into the top cover.
 - Attach the knob, rubber feet, and secure with 4 screws.
 
+![Assembly Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/preview.jpg)
+
+*The hole is caused by a different version of the cover*
+
 ---
 
 ## 🧠 Programming
@@ -112,7 +117,7 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 
 1. Flash CircuitPython firmware to your Pico (see official [guide](https://circuitpython.org/board/raspberry_pi_pico/)).
 2. Copy your Python code into `main.py` in the root of the Pico's USB drive.
-3. Install required libraries inside the `/lib` folder.
+3. Install [required libraries](https://github.com/MichalJef/ShortcutDeck/tree/main/lib) inside the `/lib` folder.
 
 ### Debugging & Modding:
 - Use **Thonny IDE** to upload, test or debug code via USB.

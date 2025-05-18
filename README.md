@@ -4,9 +4,9 @@
 
 A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–F24) and a multifunctional rotary encoder. Built to be flexible, minimalistic, and open to modifications.
 
-## 🎛️ Features
+## Features
 
-### 🔘 Rotary Encoder:
+### Rotary Encoder:
 - **Right turn:** Volume up / Next track *(in Playback mode, only 1 command per 500ms)*
 - **Left turn:** Volume down / Previous track *(same limitation)*
 - **Single press:** Toggle Mute / Play-Pause
@@ -19,9 +19,9 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 
 ---
 
-## 🧰 Required Components
+## Required Components
 
-### ⚙️ Electronics:
+### Electronics:
 - Raspberry Pi Pico (or compatible microcontroller — requires code & model adjustments)
 - 1x Rotary Encoder (Keyes KY-040 recommended)
 - 12x Mechanical switches (Kailh, Cherry MX, etc.)
@@ -38,7 +38,7 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 - 18x wires, 95mm each, 26AWG (~2m total)
 - Soldering tools (iron, solder, flux)
 
-### 🖨️ 3D Printed Parts:
+### 3D Printed Parts:
 - Can be found at [Printables]([https://printables.com](https://www.printables.com/model/1300028-shortcutdeck-printable-parts))
 - 1x Top enclosure
 - 1x Bottom enclosure
@@ -46,7 +46,7 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 - 12x Keycaps *(optional, if you don't have your own)*
 - 4x Rubber feet *(optional, or use adhesive furniture pads)*
 
-### 🧪 PCB & Assembly:
+### PCB & Assembly:
 - 1x 80x85mm single-sided copper board (cuprextit, 1.6mm thickness, 0.35µm copper layer)
 - Ferric chloride etching solution
 - PP plastic tray (flat, wide)
@@ -57,7 +57,7 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 
 ---
 
-## 🛠️ Building Process
+## Building Process
 
 ### 1. PCB Manufacturing
 1. Cut a piece of copper board to 80x85mm.
@@ -111,7 +111,7 @@ A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–
 
 ---
 
-## 🧠 Programming
+## Programming
 
 ### CircuitPython:
 

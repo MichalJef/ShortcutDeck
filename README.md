@@ -39,7 +39,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 - Soldering tools (iron, solder, flux)
 
 ### 3D Printed Parts:
-- Can be found on [Printables]([https://printables.com](https://www.printables.com/model/1300028-shortcutdeck-printable-parts)
+- Can be found on [Printables](https://www.printables.com/model/1300028-shortcutdeck-printable-parts)
 - 1x Top enclosure
 - 1x Bottom enclosure
 - 1x Rotary knob (smooth or textured)

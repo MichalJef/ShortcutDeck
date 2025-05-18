@@ -12,7 +12,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 - **Single press:** Toggle Mute / Play-Pause
 - **Double press:** Switch between Volume and Playback mode
 
-### 🧷 Keys:
+### Keys:
 - 12 physical switches mapped to F13–F24
 - Hot-swappable sockets for switch replacement
 - Customizable keycaps (or printable)

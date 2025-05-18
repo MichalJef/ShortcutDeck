@@ -39,7 +39,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 - Soldering tools (iron, solder, flux)
 
 ### 3D Printed Parts:
-- Can be found at [Printables]([https://printables.com](https://www.printables.com/model/1300028-shortcutdeck-printable-parts))
+- Can be found on [Printables]([https://printables.com](https://www.printables.com/model/1300028-shortcutdeck-printable-parts))
 - 1x Top enclosure
 - 1x Bottom enclosure
 - 1x Rotary knob (smooth or textured)
@@ -66,7 +66,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 3. Mark all required holes with a punch and peel off the paper.
 4. Pre-drill holes using a 0.8mm bit, then finish with correct bit sizes.
 5. Sand the surface and clean with alcohol.
-6. Use the marker to trace traces and pads manually.
+6. Use the marker to trace the traces and pads manually.
 7. Heat the ferric chloride to ~50°C and pour into the tray.
 8. Submerge the board for 10–20 minutes (monitor regularly).
 9. Remove the ink with alcohol, inspect the traces, and measure resistance (target < 10kΩ).
@@ -78,7 +78,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 
 - If your Pico has headers: gently remove the plastic spacer and bend pins 90° outward.
 - If not: solder 90° male headers directly.
-- Crimp and connect all Dupont cables exactly per the wiring diagram (match pinout carefully! See [Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pinout-and-design-files-4)).
+- Crimp and connect all Dupont cables exactly as the wiring diagram (match pinout carefully! See [Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pinout-and-design-files-4)).
 - The common pin of all switches on the board is GND, it is also the beginning of pinout 0-12
 
 ![Diagram Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/ShortcutDeck1.png)

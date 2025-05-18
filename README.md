@@ -2,7 +2,7 @@
 
 ![Project Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/shortcutdeck_dark.png)
 
-A simple but powerful DIY macro keyboard featuring 12 hot-swappable keys (F13–F24) and a multifunctional rotary encoder. Built to be flexible, minimalistic, and open to modifications.
+A simple but powerful DIY macro keypad using icrocontroller, featuring 12 hot-swappable keys (F13–F24) and a multifunctional rotary encoder. Built to be flexible, minimalistic, and open to modifications.
 
 ## Features
 

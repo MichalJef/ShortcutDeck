@@ -78,8 +78,8 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 
 - If your Pico has headers: gently remove the plastic spacer and bend pins 90° outward.
 - If not: solder 90° male headers directly.
-- Crimp and connect all Dupont cables exactly per the wiring diagram (match pinout carefully!).
-- The common pin of all switches on the board is GND, it is also the beginning of pinout 1-12
+- Crimp and connect all Dupont cables exactly per the wiring diagram (match pinout carefully! See [Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pinout-and-design-files-4)).
+- The common pin of all switches on the board is GND, it is also the beginning of pinout 0-12
 
 ![Diagram Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/ShortcutDeck1.png)
 ```bash

@@ -27,7 +27,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 - 12x Mechanical switches (Kailh, Cherry MX, etc.)
 - 12x Hot Swap sockets
 - ~36x Dupont female connectors
-- 13x 90° male Dupont connectors (or as needed for your microcontroller)
+- 13x 90° male Dupont connectors (plus as needed for your pin-less microcontroller)
 - Various pin Dupont connectors:  
   - 1x 7-pin  
   - 1x 6-pin  

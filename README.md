@@ -1,4 +1,4 @@
-[**EN-US**](https://github.com/MichalJef/ShortcutDeck/blob/main/README.md) / [*CS-CZ*](https://github.com/MichalJef/ShortcutDeck/blob/main/README_cz.md)
+[**EN-US**](https://github.com/MichalJef/ShortcutDeck/blob/main/README.md) / [*CS-CZ*](https://github.com/MichalJef/ShortcutDeck/blob/main/README_CZ.md)
 
 ---
 

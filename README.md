@@ -1,6 +1,6 @@
 # ShortcutDeck
 
-![Project Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/shortcutdeck_dark.png)
+![Project Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/ShortcutDeckLogo.png)
 
 A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-swappable keys (F13–F24) and a multifunctional rotary encoder. Built to be flexible, minimalistic, and open to modifications.
 

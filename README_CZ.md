@@ -73,7 +73,7 @@ Jednoduchá, ale výkonná domácí makro klávesnice s mikrokontrolerem, obsahu
 6. Ručně nakresli spoje a plošky fixem.
 7. Zahřej leptací roztok na cca 50°C  a nalij do nádoby.
 8. Ponoř DPS na 10–20 minut (pravidelně kontroluj).
-9. Odstraň fix alkoholem, zkontroluj spoje a změř odpor (cílově < 10kΩ).
+9. Odstraň fix alkoholem, zkontroluj spoje a změř odpor (cílem < 10kΩ).
 10. Napájej konektory.
 
 ![Obrázek DPS](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/PCB%20preview.jpg)

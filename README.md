@@ -51,7 +51,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 - Ferric chloride etching solution
 - PP plastic tray (flat, wide)
 - Alcohol-based permanent marker (0.1–0.3mm tip)
-- 0.8mm drill bit and bits for final hole sizes
+- 0.8mm drill bit and bits for final hole sizes (see [PDF](https://github.com/MichalJef/ShortcutDeck/blob/main/ShortcutDeck%20PCB%20v1.pdf))
 - Sandpaper and alcohol for cleaning
 - 4x Screws (1-2mm x 8-10mm)
 
@@ -109,8 +109,6 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 7. Attach the knob and glue rubber feet.
 
 ![Assembly Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/preview.jpg)
-
-*The hole is caused by a different version of the cover*
 
 ---
 

@@ -110,7 +110,7 @@ Jednoduchá, ale výkonná domácí makro klávesnice s mikrokontrolerem, obsahu
 3. Umísti matku enkodéru do šestihranného otvoru a přišroubuj enkodér, piny by měly mířit doprava při pohledu shora.
 4. DPS se spínači by měla přesně pasovat do horního krytu. (zespoda)
 5. Umísti mikrokontroler do spodní části krytu. Micro USB port by to měl usnadnit.
-6. Nakonec do sebe zasaď horní a spodní část do sebe a zajisti 4 šroubky. (Pokud mikrokontroler nedrží na místě, improvizuj jeho zapevněním šroubem nebo páskou)
+6. Nakonec do sebe zasaď horní a spodní část do sebe a zajisti 4 šroubky. (Pokud mikrokontroler nedrží, improvizuj šroubem nebo páskou)
 7. Nasaď otočný knoflík (knob) a přilep gumové nožky.
 
 ![Assembly Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/preview.png)

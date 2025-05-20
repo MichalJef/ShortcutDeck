@@ -48,7 +48,7 @@ Jednoduchá, ale výkonná domácí makro klávesnice s mikrokontrolerem, obsahu
 - 1x Spodní kryt `Shell`
 - 1x Otočný knoflík (hladký nebo s texturou) `Knob`
 - 12x Keycapů *(volitelné, pokud nemáš vlastní)*  
-- 4x Gumové nožky *(volitelné, nebo lze použít nábytkové samolepicí podložky)* `feet`
+- 4x Gumové nožky *(volitelné, nebo lze použít nábytkové samolepicí podložky)* `Feet`
 
 ### DPS a kompletace:
 - 1x jednostranná cuprextitová deska 80x85mm (tloušťka 1.6mm, měď 0.35µm)

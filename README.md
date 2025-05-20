@@ -108,7 +108,7 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 6. Finally, insert the cover and shell into each other and secure with 4 screws. (If your microcontroller won't stay in place during this step improvise with screw or tape)
 7. Attach the knob and glue rubber feet.
 
-![Assembly Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/preview.jpg)
+![Assembly Image Placeholder](https://github.com/MichalJef/ShortcutDeck/blob/main/docs/preview.png)
 
 ---
 

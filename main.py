@@ -66,7 +66,7 @@ while True:
     current_state_CLK = pinCLK.value
     current_state_DT = pinDT.value
 
-    # Rotace
+    # Rotation
     if current_state_CLK != last_state_CLK:
         if current_state_DT != current_state_CLK:
             if mode == 0:

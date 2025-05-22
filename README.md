@@ -122,6 +122,8 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 
 1. Flash CircuitPython firmware to your Pico (see official [guide](https://circuitpython.org/board/raspberry_pi_pico/)).
 2. Copy your Python code into `main.py` in the root of the Pico's USB drive.
+  - If you prefer version with complex string sending, instead, copy `String.py` and rename to `main.py`.
+    - If you need keycode functions (`ctrl`, `alt`, ...) instead of string, take inspiration from `\n` string function from our code and make your own.
 3. Install [required libraries](https://github.com/MichalJef/ShortcutDeck/tree/main/lib) inside the `/lib` folder.
 
 ### Debugging & Modding:

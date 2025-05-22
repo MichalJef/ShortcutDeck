@@ -49,11 +49,11 @@ click_count = 0
 button_pressed = False
 last_rotate_time = 0
 
-DOUBLE_CLICK_DELAY = 0.3  # v sekundách
+DOUBLE_CLICK_DELAY = 0.3  # in seconds
 
 while True:
     for btn in buttons:
-        if not btn.pin.value:  # LOW = stisknuto
+        if not btn.pin.value:  # LOW = pressed
             if not btn.pressed:
                 kbd.press(btn.keycode)
                 btn.pressed = True
@@ -84,7 +84,7 @@ while True:
     last_state_CLK = current_state_CLK
     last_state_DT = current_state_DT
 
-    # Detekce stisku tlačítka
+    # Pressed button detection
     if not pinSW.value and not button_pressed:
         button_pressed = True
         if current_time - last_button_time < DOUBLE_CLICK_DELAY:
@@ -93,17 +93,17 @@ while True:
             click_count = 1
         last_button_time = current_time
 
-    # Uvolnění tlačítka
+    # Button release
     if pinSW.value and button_pressed:
         button_pressed = False
 
-    # Vyhodnocení dvojkliku
+    # Doubleclick treshold
     if click_count == 2 and (current_time - last_button_time) > DOUBLE_CLICK_DELAY:
         mode = (mode + 1) % 2
         print("Přepnuto na mód:", mode)
         click_count = 0
 
-    # Stisk
+    # Pressed
     if click_count == 1 and (current_time - last_button_time) > DOUBLE_CLICK_DELAY:
         if mode == 1:
             cc.send(ConsumerControlCode.PLAY_PAUSE)

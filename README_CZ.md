@@ -123,6 +123,8 @@ Jednoduchá, ale výkonná domácí makro klávesnice s mikrokontrolerem, obsahu
 
 1. Nahraj CircuitPython firmware na své pico (oficiální návod [zde](https://circuitpython.org/board/raspberry_pi_pico/)).
 2. Zkopíruj svůj python kód `main.py` do kořenového adresáře mikrokontroleru.
+  - Pokud preferuješ posílání komplexních stringů, použij `String.py` a přejmenuj ho na `main.py`.
+    - Pokud potřebuješ keycode funkce namísto stringů (`ctrl`, `alt`, ...), inspiruj se naší string funkcí `\n` a přidělej si vlastní funkce. 
 3. Nainstaluj [potřebné knihovny](https://github.com/MichalJef/ShortcutDeck/tree/main/lib) do složky `/lib`.
 
 ### Debug & Úpravy:

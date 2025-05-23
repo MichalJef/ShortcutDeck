@@ -21,6 +21,8 @@ Jednoduchá, ale výkonná domácí makro klávesnice s mikrokontrolerem, obsahu
 - Hot-swap sockety pro snadnou výměnu spínačů
 - Možnost vlastních nebo tištěných keycapů
 
+Máš zájem ale necítíš se na vlastní výrobu? Kontaktuj mě na [michaljef@seznam.cz](mailto:michaljef@seznam.cz)
+
 ---
 
 ## Potřebné komponenty

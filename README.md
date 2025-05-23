@@ -21,6 +21,8 @@ A simple but powerful DIY macro keypad using microcontroller, featuring 12 hot-s
 - Hot-swappable sockets for switch replacement
 - Customizable keycaps (or printable)
 
+*Interested but not feeling up to making your own? Contact me at: [michaljef@seznam.cz](mailto:michaljef@seznam.cz)*
+
 ---
 
 ## Required Components
